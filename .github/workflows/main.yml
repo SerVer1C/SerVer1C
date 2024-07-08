@@ -12,6 +12,6 @@ jobs:
         with:
           user_id: '47774' # Infostart ID
           count: '7' # Количество выводимых статей. Сортировка по кол-ву звёзд.
-          template_file: ${{ github.action_path }}/template.html # Путь к шаблону.
+          template_file: SerVer1C/metrics-infostart@v1.10/template.html # Путь к шаблону.
           readme_file: './README.md' # Путь к README файлу.
  
