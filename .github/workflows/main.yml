@@ -8,6 +8,7 @@ jobs:
     permissions:
         contents: write
     steps:
+      - run: ls -la
       - uses: SerVer1C/metrics-infostart@v1.10
         with:
           user_id: '47774' # Infostart ID
