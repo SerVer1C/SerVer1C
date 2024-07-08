@@ -9,7 +9,7 @@
 >
 > | :star: 202 | :eyes: 119046 | :arrow_heading_down: 500 | :speech_balloon: 500 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
-
+<br>
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" width="96" align="left">
 > <h4><a href="https://infostart.ru/1c/tools/1217607/">Конвертация PDF в 1С</a></h4>
 > <small>COM-компонента для работы с PDF (32/64 bit)</small>
