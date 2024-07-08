@@ -84,7 +84,7 @@
 <br>
 <br>
 <br>
->:point_right: <h2 style="color: cyan"><a href="https://infostart.ru/profile/47774/objects/">Полный профиль на Инфостарт</a></h2>
+
 
 <div id="is_end" />
   
