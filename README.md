@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-|> <img src="https://infostart.ru/upload/iblock/ac4/ac49a3a4ab7fa59f438563d5d9c9edbf.jpg" width="100" align="left">
-|> <h4 style="color: cyan; text-decoration: underline;"><a href="https://infostart.ru/1c/articles/805266/">1C + Linux + PostgreSQL + Apache</a></h4>
-|> <small>Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).</small>
-|> <br clear="left">
-|>
-|> | :star: 202 | :eyes: 119046 | :arrow_heading_down: 500 | :speech_balloon: 500 | :calendar: 26.03.2018 |
-|> |-|-|-|-|-|
+> <img src="https://infostart.ru/upload/iblock/ac4/ac49a3a4ab7fa59f438563d5d9c9edbf.jpg" width="100" align="left">
+> <h4 style="color: cyan; text-decoration: underline;"><a href="https://infostart.ru/1c/articles/805266/">1C + Linux + PostgreSQL + Apache</a></h4>
+> <small>Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).</small>
+> <br clear="left">
+>
+> | :star: 202 | :eyes: 119046 | :arrow_heading_down: 500 | :speech_balloon: 500 | :calendar: 26.03.2018 |
+> |-|-|-|-|-|
 &nbsp;
-|> <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" width="100" align="left">
-|> <h4 style="color: cyan; text-decoration: underline;"><a href="https://infostart.ru/1c/tools/1217607/">Конвертация PDF в 1С</a></h4>
-|> <small>COM-компонента для работы с PDF (32/64 bit)</small>
-|> <br clear="left">
-|>
-|> | :star: 85 | :eyes: 40171 | :arrow_heading_down: 196 | :speech_balloon: 196 | :calendar: 31.03.2020 |
-|> |-|-|-|-|-|
+> <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" width="100" align="left">
+> <h4 style="color: cyan; text-decoration: underline;"><a href="https://infostart.ru/1c/tools/1217607/">Конвертация PDF в 1С</a></h4>
+> <small>COM-компонента для работы с PDF (32/64 bit)</small>
+> <br clear="left">
+>
+> | :star: 85 | :eyes: 40171 | :arrow_heading_down: 196 | :speech_balloon: 196 | :calendar: 31.03.2020 |
+> |-|-|-|-|-|
 &nbsp;
 |> <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" width="100" align="left">
 |> <h4 style="color: cyan; text-decoration: underline;"><a href="https://infostart.ru/1c/tools/1342779/">В8АнПак - onepack - Новый распаковщик конфигураций</a></h4>
