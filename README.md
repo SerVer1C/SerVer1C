@@ -14,7 +14,7 @@
 
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" width="120" align="left">
 > <h4><a href="https://infostart.ru/1c/tools/1217607/">Конвертация PDF в 1С</a></h4>
-> COM-компонента для работы с PDF (32/64 bit)
+> COM-компонента для работы с PDF (32/64 bit)                                                                                             
 >
 > | :star: 85 | :eyes: 40201 | :arrow_heading_down: 196 | :speech_balloon: 196 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
