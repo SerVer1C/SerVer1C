@@ -83,8 +83,7 @@
 
 <br>
 <br>
-:point_right:
-## <a href="https://infostart.ru/profile/47774/objects/">Полный профиль на Инфостарт</a>
+:point_right: <big><a href="https://infostart.ru/profile/47774/objects/">Полный профиль на Инфостарт</a></big>big>
 
 <div id="is_end" />
   
