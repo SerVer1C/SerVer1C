@@ -11,6 +11,7 @@
 > | :star: 202 | :eyes: 119102 | :arrow_heading_down: 500 | :speech_balloon: 500 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
 <br clear="left">
+
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" width="120" align="left">
 > <h4><a href="https://infostart.ru/1c/tools/1217607/">Конвертация PDF в 1С</a></h4>
 > COM-компонента для работы с PDF (32/64 bit)
@@ -18,6 +19,7 @@
 > | :star: 85 | :eyes: 40201 | :arrow_heading_down: 196 | :speech_balloon: 196 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 <br clear="left">
+
 > <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" width="120" align="left">
 > <h4><a href="https://infostart.ru/1c/tools/1342779/">В8АнПак - onepack - Новый распаковщик конфигураций</a></h4>
 > Инструмент для работы с файлами 1С v8 (cf, cfu, cfe, epf, erf, hbk)
