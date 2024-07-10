@@ -2,10 +2,11 @@
 
 <div id="is_start" />
 
-> <img src="https://infostart.ru/upload/iblock/ac4/ac49a3a4ab7fa59f438563d5d9c9edbf.jpg" width="120" align="left">
+> <img src="https://infostart.ru/upload/iblock/ac4/ac49a3a4ab7fa59f438563d5d9c9edbf.jpg" width="110" align="left">
 > <h4><a href="https://infostart.ru/1c/articles/805266/">1C + Linux + PostgreSQL + Apache</a></h4>
 > <small>Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).</small>
 > <br>
+> 
 > | :star: 202 | :eyes: 119046 | :arrow_heading_down: 500 | :speech_balloon: 500 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
 
