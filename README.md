@@ -2,7 +2,7 @@
 
 <div id="is_start" />
 
-<h2>:trophy: ТОП-10 моих публикаций на Инфостарте</h2>
+<h3>:trophy: ТОП-10 моих публикаций на Инфостарте</h3>
 
 > <img src="https://infostart.ru/upload/iblock/ac4/ac49a3a4ab7fa59f438563d5d9c9edbf.jpg" width="120" align="left">
 > <h4><a href="https://infostart.ru/1c/articles/805266/">1C + Linux + PostgreSQL + Apache</a></h4>
