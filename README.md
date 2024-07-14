@@ -41,7 +41,7 @@
 > Сжатие/Распаковка данных по алгоритму Deflate встроенными (и только!) средствами платформы 1С. Теперь работать напрямую с данными в СУБД стало проще ))
 > <br clear="left">
 >
-> | :star: 44 | :eyes: 33930 | :arrow_heading_down: 134 | :speech_balloon: 53 | :calendar: 05.05.2017 |
+> | :star: 44 | :eyes: 33932 | :arrow_heading_down: 134 | :speech_balloon: 53 | :calendar: 05.05.2017 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef7/ef7be71fb9b344ac153a9a86487195cd.png" align="left" width="90">
