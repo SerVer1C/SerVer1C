@@ -65,7 +65,7 @@
 > Кусочек ненормального программирования по извлечению файла из эсного хранилища значений и запаковка его в zip-архив на чистом SQL.
 > <br clear="left">
 >
-> | :star: 27 | :eyes: 3768 | :arrow_heading_down: 9 | :speech_balloon: 4 | :calendar: 16.12.2022 |
+> | :star: 27 | :eyes: 3769 | :arrow_heading_down: 9 | :speech_balloon: 4 | :calendar: 16.12.2022 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/a40/a40e64f5b2030aaf0e299a2930820c2d.png" align="left" width="90">
