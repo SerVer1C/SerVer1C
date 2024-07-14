@@ -33,7 +33,7 @@
 > Вставки кода на C# внутри кода на 1С.
 > <br clear="left">
 >
-> | :star: 45 | :eyes: 9894 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
+> | :star: 45 | :eyes: 9895 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/690/6901f8568cf8d62280c0b6bc6907db4a.png" align="left" width="90">
