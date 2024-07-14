@@ -17,7 +17,7 @@
 > COM-компонента для работы с PDF (32/64 bit)
 > <br clear="left">
 >
-> | :star: 85 | :eyes: 40289 | :arrow_heading_down: 196 | :speech_balloon: 175 | :calendar: 31.03.2020 |
+> | :star: 85 | :eyes: 40290 | :arrow_heading_down: 196 | :speech_balloon: 175 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
