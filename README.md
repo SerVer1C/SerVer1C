@@ -9,7 +9,7 @@
 > Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).
 > <br clear="left">
 >
-> | :star: 202 | :eyes: 119328 | :arrow_heading_down: 503 | :speech_balloon: 160 | :calendar: 26.03.2018 |
+> | :star: 202 | :eyes: 119329 | :arrow_heading_down: 503 | :speech_balloon: 160 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" align="left" width="90">
