@@ -49,7 +49,7 @@
 > Слияние и/или удаление периодов с помощью запросов 1С.
 > <br clear="left">
 >
-> | :star: 39 | :eyes: 7265 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
+> | :star: 39 | :eyes: 7266 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef1/ef169279d82a9879c7980c5374c8cac3.png" align="left" width="90">
