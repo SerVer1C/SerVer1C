@@ -81,7 +81,7 @@
 > Инструмент для извлечения файла конфигурации из файла резервной копии информационной базы (без использования платформы).
 > <br clear="left">
 >
-> | :star: 23 | :eyes: 8134 | :arrow_heading_down: 13 | :speech_balloon: 10 | :calendar: 21.12.2020 |
+> | :star: 23 | :eyes: 8135 | :arrow_heading_down: 13 | :speech_balloon: 10 | :calendar: 21.12.2020 |
 > |-|-|-|-|-|
 
 <br>
