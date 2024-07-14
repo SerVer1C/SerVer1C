@@ -9,7 +9,7 @@
 > Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).
 > <br clear="left">
 >
-> | :star: 202 | :eyes: 119310 | :arrow_heading_down: 503 | :speech_balloon: 160 | :calendar: 26.03.2018 |
+> | :star: 202 | :eyes: 119312 | :arrow_heading_down: 503 | :speech_balloon: 160 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" align="left" width="90">
@@ -17,7 +17,7 @@
 > COM-компонента для работы с PDF (32/64 bit)
 > <br clear="left">
 >
-> | :star: 85 | :eyes: 40292 | :arrow_heading_down: 196 | :speech_balloon: 175 | :calendar: 31.03.2020 |
+> | :star: 85 | :eyes: 40294 | :arrow_heading_down: 196 | :speech_balloon: 175 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
@@ -49,7 +49,7 @@
 > Слияние и/или удаление периодов с помощью запросов 1С.
 > <br clear="left">
 >
-> | :star: 39 | :eyes: 7264 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
+> | :star: 39 | :eyes: 7265 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef1/ef169279d82a9879c7980c5374c8cac3.png" align="left" width="90">
