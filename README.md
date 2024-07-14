@@ -17,7 +17,7 @@
 > COM-компонента для работы с PDF (32/64 bit)
 > <br clear="left">
 >
-> | :star: 85 | :eyes: 40295 | :arrow_heading_down: 196 | :speech_balloon: 175 | :calendar: 31.03.2020 |
+> | :star: 85 | :eyes: 40297 | :arrow_heading_down: 196 | :speech_balloon: 175 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
@@ -33,7 +33,7 @@
 > Вставки кода на C# внутри кода на 1С.
 > <br clear="left">
 >
-> | :star: 45 | :eyes: 9902 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
+> | :star: 45 | :eyes: 9903 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/690/6901f8568cf8d62280c0b6bc6907db4a.png" align="left" width="90">
