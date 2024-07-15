@@ -57,7 +57,7 @@
 > Задумывались ли вы над тем, чтобы подправить логику работы встроенных в платформу обработок из меню "Все функции"?  Если "Да" - то вам сюда!
 > <br clear="left">
 >
-> | :star: 39 | :eyes: 28915 | :arrow_heading_down: 161 | :speech_balloon: 21 | :calendar: 21.09.2015 |
+> | :star: 39 | :eyes: 28916 | :arrow_heading_down: 161 | :speech_balloon: 21 | :calendar: 21.09.2015 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/f5a/f5a9229cc6593b78b9dfc27911e13408.png" align="left" width="90">
