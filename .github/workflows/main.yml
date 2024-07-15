@@ -1,6 +1,6 @@
 name: Infostart
 on:
-  schedule: [{cron: "* * * * 0"}] # Расписание в Unix формате.
+  schedule: [{cron: "0 4 * * 1"}] # Расписание в Unix формате.
   workflow_dispatch:
 jobs:
   Update:
