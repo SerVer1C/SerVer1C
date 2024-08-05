@@ -9,7 +9,7 @@
 > Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).
 > <br clear="left">
 >
-> | :star: 203 | :eyes: 119918 | :arrow_heading_down: 510 | :speech_balloon: 160 | :calendar: 26.03.2018 |
+> | :star: 203 | :eyes: 120203 | :arrow_heading_down: 511 | :speech_balloon: 160 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" align="left" width="90">
@@ -17,7 +17,7 @@
 > COM-компонента для работы с PDF (32/64 bit)
 > <br clear="left">
 >
-> | :star: 85 | :eyes: 40595 | :arrow_heading_down: 197 | :speech_balloon: 178 | :calendar: 31.03.2020 |
+> | :star: 85 | :eyes: 40724 | :arrow_heading_down: 197 | :speech_balloon: 178 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
@@ -25,7 +25,7 @@
 > Инструмент для работы с файлами 1С v8 (cf, cfu, cfe, epf, erf, hbk)
 > <br clear="left">
 >
-> | :star: 78 | :eyes: 16878 | :arrow_heading_down: 70 | :speech_balloon: 102 | :calendar: 14.12.2020 |
+> | :star: 78 | :eyes: 16906 | :arrow_heading_down: 70 | :speech_balloon: 102 | :calendar: 14.12.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/672/672df00e3513d08e050e26dcecc1ca88.png" align="left" width="90">
@@ -33,7 +33,7 @@
 > Вставки кода на C# внутри кода на 1С.
 > <br clear="left">
 >
-> | :star: 45 | :eyes: 9995 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
+> | :star: 45 | :eyes: 10036 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/690/6901f8568cf8d62280c0b6bc6907db4a.png" align="left" width="90">
@@ -41,7 +41,7 @@
 > Сжатие/Распаковка данных по алгоритму Deflate встроенными (и только!) средствами платформы 1С. Теперь работать напрямую с данными в СУБД стало проще ))
 > <br clear="left">
 >
-> | :star: 44 | :eyes: 34043 | :arrow_heading_down: 135 | :speech_balloon: 53 | :calendar: 05.05.2017 |
+> | :star: 44 | :eyes: 34080 | :arrow_heading_down: 135 | :speech_balloon: 53 | :calendar: 05.05.2017 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef7/ef7be71fb9b344ac153a9a86487195cd.png" align="left" width="90">
@@ -49,7 +49,7 @@
 > Слияние и/или удаление периодов с помощью запросов 1С.
 > <br clear="left">
 >
-> | :star: 39 | :eyes: 7307 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
+> | :star: 39 | :eyes: 7322 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef1/ef169279d82a9879c7980c5374c8cac3.png" align="left" width="90">
@@ -57,7 +57,7 @@
 > Задумывались ли вы над тем, чтобы подправить логику работы встроенных в платформу обработок из меню "Все функции"?  Если "Да" - то вам сюда!
 > <br clear="left">
 >
-> | :star: 39 | :eyes: 28976 | :arrow_heading_down: 162 | :speech_balloon: 21 | :calendar: 21.09.2015 |
+> | :star: 39 | :eyes: 28988 | :arrow_heading_down: 162 | :speech_balloon: 21 | :calendar: 21.09.2015 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/f5a/f5a9229cc6593b78b9dfc27911e13408.png" align="left" width="90">
@@ -65,7 +65,7 @@
 > Кусочек ненормального программирования по извлечению файла из эсного хранилища значений и запаковка его в zip-архив на чистом SQL.
 > <br clear="left">
 >
-> | :star: 27 | :eyes: 3789 | :arrow_heading_down: 9 | :speech_balloon: 4 | :calendar: 16.12.2022 |
+> | :star: 27 | :eyes: 3796 | :arrow_heading_down: 9 | :speech_balloon: 4 | :calendar: 16.12.2022 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/a40/a40e64f5b2030aaf0e299a2930820c2d.png" align="left" width="90">
@@ -73,7 +73,7 @@
 > Внешняя обработка для отображения часов "типа на светодиодах" на чистом 1С
 > <br clear="left">
 >
-> | :star: 26 | :eyes: 2622 | :arrow_heading_down: 12 | :speech_balloon: 22 | :calendar: 13.10.2023 |
+> | :star: 26 | :eyes: 2625 | :arrow_heading_down: 12 | :speech_balloon: 22 | :calendar: 13.10.2023 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/08d/08dc783beb67ed66614645c6292a8346.png" align="left" width="90">
@@ -81,7 +81,7 @@
 > Инструмент для извлечения файла конфигурации из файла резервной копии информационной базы (без использования платформы).
 > <br clear="left">
 >
-> | :star: 23 | :eyes: 8160 | :arrow_heading_down: 13 | :speech_balloon: 10 | :calendar: 21.12.2020 |
+> | :star: 23 | :eyes: 8164 | :arrow_heading_down: 13 | :speech_balloon: 10 | :calendar: 21.12.2020 |
 > |-|-|-|-|-|
 
 <br>
