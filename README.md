@@ -55,7 +55,7 @@
 <img src="https://infostart.ru/upload/iblock/2f7/2f7b063b01f2be3034c1f649f66e804a.png" align="left" width="90">
 <h4><a href="https://infostart.ru/1c/tools/1836633/">ChatGPT в 1С для самых маленьких</a></h4>
 Пример использования в 1С примитивного чата с ИИ на движке ChatGPT.
-
+<br>
 | :star: 21 | :eyes: 10936 | :arrow_heading_down: 46 | :speech_balloon: 41 | :calendar: 30.03.2023 |
 | - | - | - | - | - |
 
