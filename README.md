@@ -17,39 +17,7 @@
 > COM-компонента для работы с PDF (32/64 bit)
 > <br clear="left">
 >
-> | :star: 85 | :eyes: 41126 | :arrow_heading_down: 200 | :speech_balloon: 182 | :calendar: 31.03.2020 |
-> |-|-|-|-|-|
-
-> <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/1342779/">В8АнПак - onepack - Новый распаковщик конфигураций</a></h4>
-> Инструмент для работы с файлами 1С v8 (cf, cfu, cfe, epf, erf, hbk)
-> <br clear="left">
->
-> | :star: 78 | :eyes: 16953 | :arrow_heading_down: 70 | :speech_balloon: 102 | :calendar: 14.12.2020 |
-> |-|-|-|-|-|
-
-> <img src="https://infostart.ru/upload/iblock/672/672df00e3513d08e050e26dcecc1ca88.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/1841612/">1С# - Расширяем код 1С кодом на C#</a></h4>
-> Вставки кода на C# внутри кода на 1С.
-> <br clear="left">
->
-> | :star: 45 | :eyes: 10123 | :arrow_heading_down: 4 | :speech_balloon: 58 | :calendar: 07.04.2023 |
-> |-|-|-|-|-|
-
-> <img src="https://infostart.ru/upload/iblock/690/6901f8568cf8d62280c0b6bc6907db4a.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/618906/">Сжатие/Распаковка данных по алгоритму Deflate встроенными (!) средствами платформы 1С</a></h4>
-> Сжатие/Распаковка данных по алгоритму Deflate встроенными (и только!) средствами платформы 1С. Теперь работать напрямую с данными в СУБД стало проще ))
-> <br clear="left">
->
-> | :star: 44 | :eyes: 34201 | :arrow_heading_down: 135 | :speech_balloon: 53 | :calendar: 05.05.2017 |
-> |-|-|-|-|-|
-
-> <img src="https://infostart.ru/upload/iblock/ef7/ef7be71fb9b344ac153a9a86487195cd.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/1603922/">Объединение и исключение периодов в запросах</a></h4>
-> Слияние и/или удаление периодов с помощью запросов 1С.
-> <br clear="left">
->
-> | :star: 39 | :eyes: 7371 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
+> | :star: 85 | :eyes: 41127 | :arrow_heading_down: 200 | :speech_balloon: 182 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef1/ef169279d82a9879c7980c5374c8cac3.png" align="left" width="90">
@@ -60,28 +28,60 @@
 > | :star: 39 | :eyes: 29050 | :arrow_heading_down: 164 | :speech_balloon: 21 | :calendar: 21.09.2015 |
 > |-|-|-|-|-|
 
-> <img src="https://infostart.ru/upload/iblock/f5a/f5a9229cc6593b78b9dfc27911e13408.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/1776312/">Хранилище значений в ZIP на чистом SQL</a></h4>
-> Кусочек ненормального программирования по извлечению файла из эсного хранилища значений и запаковка его в zip-архив на чистом SQL.
+> <img src="https://infostart.ru/upload/iblock/690/6901f8568cf8d62280c0b6bc6907db4a.png" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/618906/">Сжатие/Распаковка данных по алгоритму Deflate встроенными (!) средствами платформы 1С</a></h4>
+> Сжатие/Распаковка данных по алгоритму Deflate встроенными (и только!) средствами платформы 1С. Теперь работать напрямую с данными в СУБД стало проще ))
 > <br clear="left">
 >
-> | :star: 27 | :eyes: 3814 | :arrow_heading_down: 9 | :speech_balloon: 4 | :calendar: 16.12.2022 |
+> | :star: 44 | :eyes: 34201 | :arrow_heading_down: 135 | :speech_balloon: 53 | :calendar: 05.05.2017 |
 > |-|-|-|-|-|
 
-> <img src="https://infostart.ru/upload/iblock/a40/a40e64f5b2030aaf0e299a2930820c2d.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/1954872/">Цифровые часы</a></h4>
-> Внешняя обработка для отображения часов "типа на светодиодах" на чистом 1С
+> <img src="https://infostart.ru/upload/iblock/590/59095d3b9015fef376e5e8950bbb5c99.png" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/710201/">Распаковщик архивов шаблонов конфигураций 1С (Распаковщик EFD файлов)</a></h4>
+> Распаковщик EFD файлов, в которых распространяются поставки конфигураций и обновления к ним. (Не путать с файлами отчетов для платформы 7.7)
 > <br clear="left">
 >
-> | :star: 26 | :eyes: 2649 | :arrow_heading_down: 12 | :speech_balloon: 22 | :calendar: 13.10.2023 |
+> | :star: 15 | :eyes: 21979 | :arrow_heading_down: 106 | :speech_balloon: 16 | :calendar: 11.12.2017 |
 > |-|-|-|-|-|
 
-> <img src="https://infostart.ru/upload/iblock/08d/08dc783beb67ed66614645c6292a8346.png" align="left" width="90">
-> <h4><a href="https://infostart.ru/1c/tools/1348318/">DT2CF - Экстрактор конфигурации из дампа информационной базы</a></h4>
-> Инструмент для извлечения файла конфигурации из файла резервной копии информационной базы (без использования платформы).
+> <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/1342779/">В8АнПак - onepack - Новый распаковщик конфигураций</a></h4>
+> Инструмент для работы с файлами 1С v8 (cf, cfu, cfe, epf, erf, hbk)
 > <br clear="left">
 >
-> | :star: 23 | :eyes: 8183 | :arrow_heading_down: 13 | :speech_balloon: 10 | :calendar: 21.12.2020 |
+> | :star: 78 | :eyes: 16953 | :arrow_heading_down: 70 | :speech_balloon: 102 | :calendar: 14.12.2020 |
+> |-|-|-|-|-|
+
+> <img src="https://infostart.ru/upload/iblock/2f7/2f7b063b01f2be3034c1f649f66e804a.png" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/1836633/">ChatGPT в 1С для самых маленьких</a></h4>
+> Пример использования в 1С примитивного чата с ИИ на движке ChatGPT.
+> <br clear="left">
+>
+> | :star: 21 | :eyes: 10936 | :arrow_heading_down: 46 | :speech_balloon: 41 | :calendar: 30.03.2023 |
+> |-|-|-|-|-|
+
+> <img src="https://infostart.ru/upload/iblock/fab/is1.jpg" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/331606/">Подписки на события для объектов метаданных</a></h4>
+> Данная обработка предназначена для поиска подписок на события, в которых участвует выбранный объект конфигурации.
+> <br clear="left">
+>
+> | :star: 5 | :eyes: 14905 | :arrow_heading_down: 53 | :speech_balloon: 3 | :calendar: 20.02.2015 |
+> |-|-|-|-|-|
+
+> <img src="https://infostart.ru/upload/iblock/9f0/PIC00.jpg" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/403411/">Тест на умение составлять запросы в 1С 8.X</a></h4>
+> Считаете себя специалистом по запросам - проверьте себя. Хотите проверить знания кандидата - тоже не проблема.
+> <br clear="left">
+>
+> | :star: 12 | :eyes: 19387 | :arrow_heading_down: 36 | :speech_balloon: 7 | :calendar: 29.09.2015 |
+> |-|-|-|-|-|
+
+> <img src="https://infostart.ru/upload/iblock/ef7/ef7be71fb9b344ac153a9a86487195cd.png" align="left" width="90">
+> <h4><a href="https://infostart.ru/1c/tools/1603922/">Объединение и исключение периодов в запросах</a></h4>
+> Слияние и/или удаление периодов с помощью запросов 1С.
+> <br clear="left">
+>
+> | :star: 39 | :eyes: 7371 | :arrow_heading_down: 20 | :speech_balloon: 2 | :calendar: 11.02.2022 |
 > |-|-|-|-|-|
 
 <br>
