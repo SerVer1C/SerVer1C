@@ -8,7 +8,7 @@ jobs:
     permissions:
         contents: write
     steps:
-      - uses: SerVer1C/metrics-infostart@v1.26
+      - uses: SerVer1C/metrics-infostart@v1.27
         with:
           user_id: '47774' # Infostart ID
           count: '10' # Количество выводимых статей. Сортировка по кол-ву звёзд.
