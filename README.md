@@ -9,7 +9,7 @@
 > Дружим 1С с Линуксом ИЛИ Установка окружения для работы с 1С на Линуксе под Постгресом и Апачем (в 2024-м году).
 > <br clear="left">
 >
-> | :star: 212 | :eyes: 137393 | :arrow_heading_down: 663 | :speech_balloon: 167 | :calendar: 26.03.2018 |
+> | :star: 214 | :eyes: 137665 | :arrow_heading_down: 666 | :speech_balloon: 171 | :calendar: 26.03.2018 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/03d/03d96e48660b16f71b1e7325f930e1b3.png" align="left" width="90">
@@ -17,7 +17,7 @@
 > COM-компонента для работы с PDF (32/64 bit)
 > <br clear="left">
 >
-> | :star: 90 | :eyes: 47010 | :arrow_heading_down: 220 | :speech_balloon: 184 | :calendar: 31.03.2020 |
+> | :star: 90 | :eyes: 47105 | :arrow_heading_down: 220 | :speech_balloon: 184 | :calendar: 31.03.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef1/ef169279d82a9879c7980c5374c8cac3.png" align="left" width="90">
@@ -25,7 +25,7 @@
 > Задумывались ли вы над тем, чтобы подправить логику работы встроенных в платформу обработок из меню "Все функции"?  Если "Да" - то вам сюда!
 > <br clear="left">
 >
-> | :star: 42 | :eyes: 30698 | :arrow_heading_down: 183 | :speech_balloon: 21 | :calendar: 21.09.2015 |
+> | :star: 42 | :eyes: 30734 | :arrow_heading_down: 183 | :speech_balloon: 21 | :calendar: 21.09.2015 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/690/6901f8568cf8d62280c0b6bc6907db4a.png" align="left" width="90">
@@ -33,7 +33,7 @@
 > Сжатие/Распаковка данных по алгоритму Deflate встроенными (и только!) средствами платформы 1С. Теперь работать напрямую с данными в СУБД стало проще ))
 > <br clear="left">
 >
-> | :star: 45 | :eyes: 36869 | :arrow_heading_down: 155 | :speech_balloon: 47 | :calendar: 05.05.2017 |
+> | :star: 45 | :eyes: 36920 | :arrow_heading_down: 155 | :speech_balloon: 47 | :calendar: 05.05.2017 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/590/59095d3b9015fef376e5e8950bbb5c99.png" align="left" width="90">
@@ -41,7 +41,7 @@
 > Распаковщик EFD файлов, в которых распространяются поставки конфигураций и обновления к ним. (Не путать с файлами отчетов для платформы 7.7)
 > <br clear="left">
 >
-> | :star: 15 | :eyes: 23016 | :arrow_heading_down: 113 | :speech_balloon: 24 | :calendar: 11.12.2017 |
+> | :star: 15 | :eyes: 23065 | :arrow_heading_down: 114 | :speech_balloon: 24 | :calendar: 11.12.2017 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/38f/38f8021a5a0841c6e90c52f83a017231.png" align="left" width="90">
@@ -49,7 +49,7 @@
 > Инструмент для работы с файлами 1С v8 (cf, cfu, cfe, epf, erf, hbk)
 > <br clear="left">
 >
-> | :star: 79 | :eyes: 18119 | :arrow_heading_down: 79 | :speech_balloon: 103 | :calendar: 14.12.2020 |
+> | :star: 79 | :eyes: 18142 | :arrow_heading_down: 79 | :speech_balloon: 103 | :calendar: 14.12.2020 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/2f7/2f7b063b01f2be3034c1f649f66e804a.png" align="left" width="90">
@@ -57,7 +57,7 @@
 > Пример использования в 1С примитивного чата с ИИ на движке ChatGPT.
 > <br clear="left">
 >
-> | :star: 22 | :eyes: 13295 | :arrow_heading_down: 64 | :speech_balloon: 43 | :calendar: 30.03.2023 |
+> | :star: 22 | :eyes: 13335 | :arrow_heading_down: 64 | :speech_balloon: 43 | :calendar: 30.03.2023 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/fab/is1.jpg" align="left" width="90">
@@ -65,7 +65,7 @@
 > Данная обработка предназначена для поиска подписок на события, в которых участвует выбранный объект конфигурации.
 > <br clear="left">
 >
-> | :star: 5 | :eyes: 15168 | :arrow_heading_down: 53 | :speech_balloon: 3 | :calendar: 20.02.2015 |
+> | :star: 5 | :eyes: 15188 | :arrow_heading_down: 53 | :speech_balloon: 3 | :calendar: 20.02.2015 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/9f0/PIC00.jpg" align="left" width="90">
@@ -73,7 +73,7 @@
 > Считаете себя специалистом по запросам - проверьте себя. Хотите проверить знания кандидата - тоже не проблема.
 > <br clear="left">
 >
-> | :star: 12 | :eyes: 20201 | :arrow_heading_down: 36 | :speech_balloon: 7 | :calendar: 29.09.2015 |
+> | :star: 12 | :eyes: 20214 | :arrow_heading_down: 36 | :speech_balloon: 7 | :calendar: 29.09.2015 |
 > |-|-|-|-|-|
 
 > <img src="https://infostart.ru/upload/iblock/ef7/ef7be71fb9b344ac153a9a86487195cd.png" align="left" width="90">
@@ -81,7 +81,7 @@
 > Слияние и/или удаление периодов с помощью запросов 1С.
 > <br clear="left">
 >
-> | :star: 40 | :eyes: 8464 | :arrow_heading_down: 28 | :speech_balloon: 2 | :calendar: 11.02.2022 |
+> | :star: 40 | :eyes: 8487 | :arrow_heading_down: 28 | :speech_balloon: 2 | :calendar: 11.02.2022 |
 > |-|-|-|-|-|
 
 <br>
