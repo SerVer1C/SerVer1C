@@ -1,5 +1,7 @@
 ## Всем цифровой привет! 👋
 
+![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+
 <div id="is_start" />
 
 <h3>:trophy: ТОП-10 моих публикаций на Инфостарте</h3>
