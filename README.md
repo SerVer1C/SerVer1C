@@ -91,7 +91,12 @@
 <h2>:point_right: <a href="https://infostart.ru/profile/47774/objects/">Полный профиль на Инфостарт</a></h2>
 
 </div>
-  
+
+
+<div id="is_start" />
+<div id="is_end" />
+
+
 <!--
 **SerVer1C/SerVer1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
