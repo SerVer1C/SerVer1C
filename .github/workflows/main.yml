@@ -14,5 +14,6 @@ jobs:
         with:
           user_id: '47774' # Infostart ID
           count: '10' # Количество выводимых статей. Сортировка по кол-ву звёзд.
+          cookies: ${{ secrets.INFOSTART_COOKIES }} # печеньки в секретах
           # template_file: '' # Путь к шаблону.
           # readme_file: '' # Путь к README файлу.
