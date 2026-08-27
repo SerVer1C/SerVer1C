@@ -94,6 +94,13 @@
 
 
 <div id="is_start" />
+
+<h3>:trophy: ТОП-10 моих публикаций на Инфостарте</h3>
+
+<br>
+<br>
+<h2>:point_right: <a href="https://infostart.ru/profile/47774/objects/">Полный профиль на Инфостарт</a></h2>
+
 <div id="is_end" />
 
 
